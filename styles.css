@@ -1,0 +1,56 @@
+body {
+  background-color: #2E8B57;
+  margin: 0;
+}
+
+.container {
+  width: 95%;
+  margin: auto;
+  text-align: center;
+}
+
+footer {
+  margin-top: 1%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'DM Serif Display', serif;
+}
+
+.card {
+  text-align: center;
+  display: inline-block;
+  width: 45%;
+}
+
+h1 {
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  font-family: 'DM Serif Display', serif;
+  margin: 0px 30px 0 30px;
+}
+
+h2 {
+  font-family: 'DM Serif Display', serif;
+  text-shadow: 3px 0 #232931;
+  font-size: 4rem;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+h3 {
+  font-family: 'DM Serif Display', serif;
+  text-shadow: 1.5px 0 #232931;
+  font-size: 2rem;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+img {
+    width: 45%;
+}
+
+p {
+  font-size: 2rem;
+  color: #EEEEEE;
+  font-family: 'Indie Flower', cursive;
+}
